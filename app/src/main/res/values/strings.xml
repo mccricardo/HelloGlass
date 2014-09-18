@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloGlass</string>
+    <string name="title_activity_main">Hello Glass</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello_glass_voice_trigger">Hello Glass</string>
+
+</resources>
